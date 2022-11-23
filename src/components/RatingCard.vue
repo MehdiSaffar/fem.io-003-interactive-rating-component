@@ -46,7 +46,7 @@ function onSubmit(e) {
         background-color: var(--clr-neutral-700);
 
         &::before {
-            content: url('../images/icon-star.svg');
+            content: url('../assets/images/icon-star.svg');
             display: block;
             width: 1rem;
             height: 1rem;

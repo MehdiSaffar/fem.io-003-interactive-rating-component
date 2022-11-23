@@ -8,7 +8,7 @@ defineProps({
 
 <template>
     <article class="card">
-        <img class="card__img" src="../../images/illustration-thank-you.svg"
+        <img class="card__img" src="../assets/images/illustration-thank-you.svg"
             alt="Thank you illustration" />
         <p class="card__selection">You selected {{ rating }} out of 5</p>
         <h2 class="card__title">Thank you!</h2>
@@ -27,7 +27,7 @@ defineProps({
 
     &__selection {
         color: var(--clr-primary-500);
-        padding: 0.5rem 1rem ;
+        padding: 0.5rem 1rem;
         line-height: 1;
 
         border-radius: 99999vmax;

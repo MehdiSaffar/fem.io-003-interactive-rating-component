@@ -1,10 +1,10 @@
-# Frontend Mentor - Product preview card component solution
-Live Solution: [Product preview card component](https://fem-io-product-preview-card-component.vercel.app/)
+# Frontend Mentor - Interactive rating component solution
+Live Solution: [Interactive rating component](https://fem-io-interactive-rating-component-mehdisaffar1.vercel.app/)
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component solution on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![](./screenshot_mobile.png)
-![](./screenshot_desktop.png)
+![](./screenshot_rate.png)
+![](./screenshot_rated.png)
 
 ## Author
 
