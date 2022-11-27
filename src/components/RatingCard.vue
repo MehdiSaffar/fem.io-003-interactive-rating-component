@@ -75,7 +75,7 @@ function onSubmit(e) {
         display: flex;
         justify-content: space-between;
         gap: 0.5rem;
-        flex-wrap: nowrap;
+        flex-wrap: wrap;
         border: none;
         padding: 0;
         // margin-block: 0.3rem;
